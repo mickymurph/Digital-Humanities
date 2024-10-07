@@ -1,0 +1,27 @@
+.background-pink {
+    background-color: rgb(0, 255, 157); font-style: italic;} 
+h1 {font-style:italic;}
+a:link, a:visited {
+    background-color:aquamarine;color:black;padding: 14px 25px;text-align: center;display: inline-block;}
+h1 {font-size: 36px; text-align: center;}
+body {background-color:pink}
+a:hover, a:active {background-color: rgb(0, 255, 170);}
+h1 {text-decoration: underline;}
+p { margin-top: 25px;
+margin-bottom: 25px;
+margin-right: 25px;
+margin-left: 25px }
+a {cursor: pointer;}
+h1 {text-shadow: 1px 1px 1px gray,
+   1px 2px 1px gray,
+   1px 3px 1px gray,
+   1px 4px 1px gray,
+   1px 5px 1px gray,
+    1px 6px 1px gray,
+    1px 7px 1px gray,
+    1px 8px 1px gray,
+    1px 9px 1px gray,
+    1px 10px 1px ;}
+img {size-adjust: 100px 500px;}
+div {border-left: unset;}
+ 
